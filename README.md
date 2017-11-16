@@ -1,7 +1,8 @@
 ## Introduction to R and Bioconductor
-### Sheffield - 7th December 2017
-### 10am - 4pm
-### Pam Liversidge Design studio 06
+
+- Sheffield - 7th December 2017
+- 10am - 4pm
+- Pam Liversidge Design studio 06
 
 ## Overview
 
