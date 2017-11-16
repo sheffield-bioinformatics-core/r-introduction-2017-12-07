@@ -14,6 +14,10 @@ In this course, we give an introduction to the R environment and explain how it 
 
 After the course you should feel confident to start exploring your own dataset using the materials and references provided. 
 
+## Who should attend this course?
+
+
+
 ## Aims:- After this course you should be able to:
 
 - Import data and plot graphs
@@ -33,10 +37,26 @@ After the course you should feel confident to start exploring your own dataset u
 - Customizing plots
 - Creating reproducible reports in R
 
+## Prerequisites
+
+- No prior programming experience is required, but those attending should be able to use a plain text editor.
+- A very basic knowledge of UNIX would be an advantage, but nothing will be assumed and extremely little will be required.
+
+## Software installation
+
+You will need to bring an internet-enabled laptop to the course and install the latest versions of ***both*** R ***and*** RStudio before coming to the course
+
+- [R](https://cran.r-project.org/)
+- [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+
 
 ## Instructors
 
 - Mark Dunning, Bioinformatics Core Director
 
-## Course Materials
+## Timetable (provisional)
+
+09:30 - 12:00 Introduction to R
+12:00 - 13:00 LUNCH
+13:00 - 16:00 Introduction to Bioconductor
 
